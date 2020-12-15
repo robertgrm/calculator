@@ -5,7 +5,6 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/robertgrigore830561/calculator/_apis/build/status/robertgrm.calculator?branchName=master)](https://dev.azure.com/robertgrigore830561/calculator/_build/latest?definitionId=1&branchName=master)
 
 [![Build Status](https://dev.azure.com/robertgrigore830561/calculator/_apis/build/status/robertgrm.calculator?branchName=master)](https://dev.azure.com/robertgrigore830561/calculator/_build/latest?definitionId=1&branchName=master)
 
